@@ -2,7 +2,7 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-    "model": "deepseek-ai/DeepSeek-V4-Pro",
+    "model": "MiniMax/MiniMax-M2.7:MiniMax",
     "base_url": "https://api-inference.modelscope.cn/v1",
     "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
